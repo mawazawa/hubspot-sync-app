@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+coverage/
+*.js
+!jest.config.js
+.next/
+.nuxt/
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.vscode-test/
+tests/setup.ts
